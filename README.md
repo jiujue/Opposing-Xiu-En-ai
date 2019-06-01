@@ -1,6 +1,6 @@
 # Opposing-Xiu-En-ai
 Opposing Xiu En-ai
-注意
+注意</br>
 1） 打开 想关闭 直接关机 或者等自动关机 ,本程序无害，由python3编写，pyinstaller 打包
 2）会在 c盘创建个文件夹，tempOfjiujueismmp，用于存储 替换的桌面背景 
 3）由于 2）本程序需要在电脑联网使用
